@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "yamljs": "github:jeremyfa/yaml.js"
+  },
+  "name": "y2j",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gesslar/y2j.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gesslar/y2j/issues"
+  },
+  "homepage": "https://github.com/gesslar/y2j#readme"
+}
